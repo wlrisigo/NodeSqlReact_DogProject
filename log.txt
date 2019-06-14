@@ -1,0 +1,4892 @@
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+Hello
+hello
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+Hello
+hello
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+Hello
+hello
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+Hello
+hello
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+Hello
+hello
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+Hello
+hello
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Hello
+hello
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Hello
+hello
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Hello
+hello
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Hello
+hello
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Hello
+hello
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Hello
+hello
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Hello
+hello
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Hello
+hello
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Hello
+hello
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Hello
+hello
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Hello
+hello
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Hello
+hello
+This is the Enviorment[object Object]
+This is the Enviorment
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ERROR Joi.date.min is not a function
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ERROR dogTag is not defined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ERROR Invalid schema content: (fldAuthor)
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ERROR Joi.date(...).moment is not a function
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+[ [ 'This guy', 'forever', '10-7-2018', 'Burlington vt somewhere' ] ]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+[ [ 'This guy', 'forever', '10-7-18', 'Burlington vt somewhere' ] ]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+[ [ 'This guy', 'forever', '10-7-18', 'Burlington vt somewhere' ] ]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+[ [ 'This guy', 'forever', '10-7-18', 'Burlington vt somewhere' ] ]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+[ [ 'This guy', 'forever', '10-7-2018', 'Burlington vt somewhere' ] ]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ERROR Joi.date(...).format is not a function
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ERROR Joi.date() does not allow arguments.
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ERROR Joi.date.required is not a function
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+[ [ 'This guy', 'forever', '2018-10-07', 'Burlington vt somewhere' ] ]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+[ [ 'This guy', 'forever', '2018-10-07', 'Burlington vt somewhere' ] ]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+[ [ 'This guy', 'forever', '2018-10-07', 'Burlington vt somewhere' ] ]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+[ [ 'This guy', 'forever', '2018-10-07', 'Burlington vt somewhere' ] ]
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 3,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Cannot read property 'acquireTimeout' of undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+undefined
+This is the Enviorment: 
+undefined
+This is the Enviorment: 
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+This is the Enviorment: 
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+This is the Enviorment: 
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+Cannot read property 'acquireTimeout' of undefined
+This is the Enviorment: 
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+Cannot read property 'acquireTimeout' of undefined
+ERROR Cannot read property 'query' of null
+ERROR Cannot read property 'query' of null
+This is the Enviorment: 
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+Cannot read property 'acquireTimeout' of undefined
+ERROR Cannot read property 'query' of null
+ERROR Cannot read property 'query' of null
+ERROR Cannot read property 'query' of null
+This is the Enviorment: 
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+This is the Enviorment: 
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+This is the Enviorment: 
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'webdb.uvm.edu',
+  user: 'wrisigo_admin',
+  password: 'CS148Bob',
+  database: 'WRISIGO_Dogs' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'localhost',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'root',
+        password: 'CSBob148',
+        database: 'sys',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'localhost',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'root',
+        password: 'CSBob148',
+        database: 'sys',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'localhost',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'root',
+        password: 'CSBob148',
+        database: 'sys',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'localhost',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'root',
+        password: 'CSBob148',
+        database: 'sys',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'localhost',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'root',
+        password: 'CSBob148',
+        database: 'sys',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'webdb.uvm.edu',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'wrisigo',
+        password: 'CS148Bob',
+        database: undefined,
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'webdb.uvm.edu',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'wrisigo',
+        password: 'CS148Bob',
+        database: 'WRISIGO_Dogs',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'webdb.uvm.edu',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'wrisigo_admin',
+        password: 'CS148Bob',
+        database: 'WRISIGO_Dogs',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'webdb.uvm.edu',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'wrisigo_admin',
+        password: 'CS148Bob',
+        database: 'WRISIGO_Dogs',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'webdb.uvm.edu',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'wrisigo_admin',
+        password: 'CS148Bob',
+        database: 'WRISIGO_Dogs',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'webdb.uvm.edu',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'wrisigo_admin',
+        password: 'CS148Bob',
+        database: 'WRISIGO_Dogs',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'webdb.uvm.edu',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'wrisigo_admin',
+        password: 'CS148Bob',
+        database: 'WRISIGO_Dogs',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'webdb.uvm.edu',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'wrisigo_admin',
+        password: 'CS148Bob',
+        database: 'WRISIGO_Dogs',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'localhost',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'root',
+        password: 'CSBob148',
+        database: 'sys',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Pool {
+  _events: {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  config:
+   PoolConfig {
+     acquireTimeout: 10000,
+     connectionConfig:
+      ConnectionConfig {
+        host: 'localhost',
+        port: 3306,
+        localAddress: undefined,
+        socketPath: undefined,
+        user: 'root',
+        password: 'CSBob148',
+        database: 'sys',
+        connectTimeout: 10000,
+        insecureAuth: false,
+        supportBigNumbers: false,
+        bigNumberStrings: false,
+        dateStrings: false,
+        debug: undefined,
+        trace: true,
+        stringifyObjects: false,
+        timezone: 'local',
+        flags: '',
+        queryFormat: undefined,
+        pool: [Circular],
+        ssl: false,
+        multipleStatements: false,
+        typeCast: true,
+        maxPacketSize: 0,
+        charsetNumber: 33,
+        clientFlags: 455631 },
+     waitForConnections: true,
+     connectionLimit: 10,
+     queueLimit: 0 },
+  _acquiringConnections: [],
+  _allConnections: [],
+  _freeConnections: [],
+  _connectionQueue: [],
+  _closed: false }
+[ RowDataPacket {
+    fldName: 'Greta',
+    fldBreed: 'Mix',
+    fldPhoto: 'ddd',
+    fldAge: 3,
+    fldDescription: 'Awsome Dog',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Wiener-Dog',
+    fldPhoto: 'fdff',
+    fldAge: 32,
+    fldDescription: 'This Dog',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'George',
+    fldBreed: 'Mixed-bull',
+    fldPhoto: 'fdff',
+    fldAge: 32,
+    fldDescription: 'This Dog',
+    pfkStatus: 'Foster' } ]
+[ RowDataPacket {
+    fldName: 'Greta',
+    fldBreed: 'Mix',
+    fldPhoto: 'ddd',
+    fldAge: 3,
+    fldDescription: 'Awsome Dog',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Wiener-Dog',
+    fldPhoto: 'fdff',
+    fldAge: 32,
+    fldDescription: 'This Dog',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'George',
+    fldBreed: 'Mixed-bull',
+    fldPhoto: 'fdff',
+    fldAge: 32,
+    fldDescription: 'This Dog',
+    pfkStatus: 'Foster' } ]
+[ RowDataPacket {
+    fldName: 'Greta',
+    fldBreed: 'Mix',
+    fldPhoto: 'ddd',
+    fldAge: 3,
+    fldDescription: 'Awsome Dog',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Wiener-Dog',
+    fldPhoto: 'fdff',
+    fldAge: 32,
+    fldDescription: 'This Dog',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'George',
+    fldBreed: 'Mixed-bull',
+    fldPhoto: 'fdff',
+    fldAge: 32,
+    fldDescription: 'This Dog',
+    pfkStatus: 'Foster' } ]
+[ RowDataPacket {
+    fldName: 'Greta',
+    fldBreed: 'Mix',
+    fldPhoto: 'ddd',
+    fldAge: 3,
+    fldDescription: 'Awsome Dog',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Wiener-Dog',
+    fldPhoto: 'fdff',
+    fldAge: 32,
+    fldDescription: 'This Dog',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'George',
+    fldBreed: 'Mixed-bull',
+    fldPhoto: 'fdff',
+    fldAge: 32,
+    fldDescription: 'This Dog',
+    pfkStatus: 'Foster' } ]
+[ RowDataPacket {
+    fldName: 'Greta',
+    fldBreed: 'Mix',
+    fldPhoto: 'ddd',
+    fldAge: 3,
+    fldDescription: 'Awsome Dog',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Wiener-Dog',
+    fldPhoto: 'fdff',
+    fldAge: 32,
+    fldDescription: 'This Dog',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'George',
+    fldBreed: 'Mixed-bull',
+    fldPhoto: 'fdff',
+    fldAge: 32,
+    fldDescription: 'This Dog',
+    pfkStatus: 'Foster' } ]
+[ RowDataPacket {
+    fldName: 'Greta',
+    fldBreed: 'Mix',
+    fldPhoto: 'ddd',
+    fldAge: 3,
+    fldDescription: 'Awsome Dog',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Wiener-Dog',
+    fldPhoto: 'fdff',
+    fldAge: 32,
+    fldDescription: 'This Dog',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'George',
+    fldBreed: 'Mixed-bull',
+    fldPhoto: 'fdff',
+    fldAge: 32,
+    fldDescription: 'This Dog',
+    pfkStatus: 'Foster' } ]
+Grabbed News
+[ RowDataPacket {
+    pmkNewsId: 1,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 2,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 3,
+    fldAuthor: 'This guy',
+    fldTitle: 'forever',
+    fldDate: 2018-10-07T04:00:00.000Z,
+    fldContent: 'Burlington vt somewhere' } ]
+1
+{ fldName: 'Henry',
+  fldBreed: 'Wiener-Dog',
+  fldAge: '32',
+  fldDescription: 'This Dog',
+  fldPhoto: 'golden_retriever.jpg' }
+1
+1
+{ fldName: 'Henry',
+  fldBreed: 'Golden Retriever',
+  fldAge: '1',
+  fldDescription: 'Great Around Family\'s',
+  fldPhoto: 'golden_retriever.jpg' }
+1
+2
+{ fldName: 'Henry',
+  fldBreed: 'Golden Retriever',
+  fldAge: '1',
+  fldDescription: 'Great Around Family\'s',
+  fldPhoto: 'golden_retriever.jpg' }
+2
+3
+{ fldName: 'Henry',
+  fldBreed: 'Golden Retriever',
+  fldAge: '1',
+  fldDescription: 'Great Around Family\'s',
+  fldPhoto: 'golden_retriever.jpg' }
+3
+4
+{ fldName: 'Henry',
+  fldBreed: 'Golden Retriever',
+  fldAge: '1',
+  fldDescription: 'Great Around Family\'s',
+  fldPhoto: 'golden_retriever.jpg' }
+4
+5
+{ fldName: 'Henry',
+  fldBreed: 'Golden Retriever',
+  fldAge: '1',
+  fldDescription: 'Great Around Family\'s',
+  fldPhoto: 'golden_retriever.jpg' }
+5
+6
+{ fldName: 'Henry',
+  fldBreed: 'Golden Retriever',
+  fldAge: '1',
+  fldDescription: 'Great Around Family\'s',
+  fldPhoto: 'golden_retriever.jpg' }
+6
+7
+{ fldName: 'Henry',
+  fldBreed: 'Golden Retriever',
+  fldAge: '1',
+  fldDescription: 'Great Around Family\'s',
+  fldPhoto: 'golden_retriever.jpg' }
+7
+[ RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Foster' } ]
+[ RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Foster' } ]
+[ RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Foster' } ]
+[ RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Foster' } ]
+[ RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Foster' } ]
+Grabbed News
+[ RowDataPacket {
+    pmkNewsId: 1,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 2,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 3,
+    fldAuthor: 'This guy',
+    fldTitle: 'forever',
+    fldDate: 2018-10-07T04:00:00.000Z,
+    fldContent: 'Burlington vt somewhere' } ]
+[ RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Foster' } ]
+[ RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Foster' } ]
+[ RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Available' },
+  RowDataPacket {
+    fldName: 'Henry',
+    fldBreed: 'Golden Retriever',
+    fldPhoto: 'golden_retriever.jpg',
+    fldAge: 1,
+    fldDescription: 'Great Around Family\'s',
+    pfkStatus: 'Foster' } ]
+Grabbed News
+[ RowDataPacket {
+    pmkNewsId: 1,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 2,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 3,
+    fldAuthor: 'This guy',
+    fldTitle: 'forever',
+    fldDate: 2018-10-07T04:00:00.000Z,
+    fldContent: 'Burlington vt somewhere' } ]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ERROR Joi.toString(...).min is not a function
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ERROR Invalid schema content: (fldPassword)
+ERROR Invalid schema content: (fldPassword)
+ERROR Invalid schema content: (fldPassword)
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ERROR Invalid schema content: (fldPassword)
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Email already Exists
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Email already Exists
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Email already Exists
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+[ [ 'w.risigo@gmail.com', 'HelloWorldD' ] ]
+ER_PARSE_ERROR
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Email already Exists
+Email already Exists
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+true
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+gmail@gmail.com
+true
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+w.risigo@gmail.com
+[ RowDataPacket { pmkEmail: 'w.risigo@gmail.com' } ]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+wrisigo@gmail.com
+[]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+w.risigo@gmail.com
+Email already Exists
+wrisigo@gmail.com
+Email already Exists
+wlrisigo@gmail.com
+Email already Exists
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+ER_BAD_FIELD_ERROR
+undefined
+Grabbed News
+[ RowDataPacket {
+    pmkNewsId: 1,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 2,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 3,
+    fldAuthor: 'This guy',
+    fldTitle: 'forever',
+    fldDate: 2018-10-07T04:00:00.000Z,
+    fldContent: 'Burlington vt somewhere' } ]
+undefined
+undefined
+undefined
+undefined
+ER_BAD_FIELD_ERROR
+undefined
+undefined
+undefined
+undefined
+undefined
+ER_BAD_FIELD_ERROR
+undefined
+undefined
+undefined
+undefined
+undefined
+ER_BAD_FIELD_ERROR
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+here
+Grabbed News
+[ RowDataPacket {
+    pmkNewsId: 1,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 2,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 3,
+    fldAuthor: 'This guy',
+    fldTitle: 'forever',
+    fldDate: 2018-10-07T04:00:00.000Z,
+    fldContent: 'Burlington vt somewhere' } ]
+PROTOCOL_CONNECTION_LOST
+true
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+here
+PROTOCOL_CONNECTION_LOST
+true
+here
+PROTOCOL_CONNECTION_LOST
+true
+here
+PROTOCOL_CONNECTION_LOST
+true
+here
+here
+PROTOCOL_CONNECTION_LOST
+true
+here
+here
+here
+Grabbed News
+[ RowDataPacket {
+    pmkNewsId: 1,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 2,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 3,
+    fldAuthor: 'This guy',
+    fldTitle: 'forever',
+    fldDate: 2018-10-07T04:00:00.000Z,
+    fldContent: 'Burlington vt somewhere' } ]
+here
+here
+PROTOCOL_CONNECTION_LOST
+true
+here
+here
+PROTOCOL_CONNECTION_LOST
+true
+here
+PROTOCOL_CONNECTION_LOST
+true
+here
+ECONNREFUSED
+true
+ECONNREFUSED
+true
+here
+PROTOCOL_CONNECTION_LOST
+true
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+[ [ 'Billy',
+    'Bernie',
+    2,
+    'Description',
+    'golden_retriever.jpg',
+    'Available' ] ]
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 2,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+3
+undefined
+undefined
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+1
+{ fldName: 'Henry',
+  fldBreed: 'Golden Retriever',
+  fldAge: '1',
+  fldDescription: 'Great Around Family\'s',
+  fldPhoto: 'golden_retriever.jpg' }
+1
+ER_PARSE_ERROR
+undefined
+undefined
+undefined
+undefined
+undefined
+1
+undefined
+undefined
+undefined
+undefined
+1
+{ fldName: 'Henry',
+  fldBreed: 'Wiener-Dog',
+  fldAge: '2',
+  fldDescription: 'This Dog',
+  fldPhoto: 'golden_retriever.jpg',
+  fldStatus: 'Available' }
+1
+ER_PARSE_ERROR
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+1
+{ fldName: 'Henry',
+  fldBreed: 'Golden',
+  fldAge: '2',
+  fldDescription: 'This Dog',
+  fldPhoto: 'golden_retriever.jpg',
+  fldStatus: 'Available' }
+1
+ER_PARSE_ERROR
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+1
+{ fldName: 'Henry',
+  fldBreed: 'Golden',
+  fldAge: '2',
+  fldDescription: 'This Dog',
+  fldPhoto: 'golden_retriever.jpg',
+  fldStatus: 'Available' }
+1
+ER_PARSE_ERROR
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+1
+{ fldName: 'Henry',
+  fldBreed: 'Golden',
+  fldAge: '2',
+  fldDescription: 'This Dog',
+  fldPhoto: 'golden_retriever.jpg',
+  fldStatus: 'Available' }
+1
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+here
+ER_NO_SUCH_TABLE
+undefined
+Grabbed News
+[ RowDataPacket {
+    pmkNewsId: 1,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 2,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 3,
+    fldAuthor: 'This guy',
+    fldTitle: 'forever',
+    fldDate: 2018-10-07T04:00:00.000Z,
+    fldContent: 'Burlington vt somewhere' } ]
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+undefined
+undefined
+undefined
+undefined
+4
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+undefined
+undefined
+undefined
+undefined
+5
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+here
+ER_NO_SUCH_TABLE
+undefined
+Grabbed News
+[ RowDataPacket {
+    pmkNewsId: 1,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 2,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 3,
+    fldAuthor: 'This guy',
+    fldTitle: 'forever',
+    fldDate: 2018-10-07T04:00:00.000Z,
+    fldContent: 'Burlington vt somewhere' } ]
+here
+ER_NO_SUCH_TABLE
+undefined
+PROTOCOL_CONNECTION_LOST
+true
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+PROTOCOL_CONNECTION_LOST
+true
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+PROTOCOL_CONNECTION_LOST
+true
+here
+ECONNREFUSED
+true
+ECONNREFUSED
+true
+Grabbed News
+undefined
+here
+ECONNREFUSED
+true
+here
+ECONNREFUSED
+true
+ECONNREFUSED
+true
+Grabbed News
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+here
+ER_NO_SUCH_TABLE
+undefined
+PROTOCOL_CONNECTION_LOST
+true
+here
+ECONNREFUSED
+true
+here
+ECONNREFUSED
+true
+ECONNREFUSED
+true
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Grabbed News
+[ RowDataPacket {
+    pmkNewsId: 1,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 2,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 3,
+    fldAuthor: 'This guy',
+    fldTitle: 'forever',
+    fldDate: 2018-10-07T04:00:00.000Z,
+    fldContent: 'Burlington vt somewhere' } ]
+PROTOCOL_CONNECTION_LOST
+true
+PROTOCOL_CONNECTION_LOST
+true
+Grabbed News
+[ RowDataPacket {
+    pmkNewsId: 1,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 2,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 3,
+    fldAuthor: 'This guy',
+    fldTitle: 'forever',
+    fldDate: 2018-10-07T04:00:00.000Z,
+    fldContent: 'Burlington vt somewhere' } ]
+Grabbed News
+[ RowDataPacket {
+    pmkNewsId: 1,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 2,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 3,
+    fldAuthor: 'This guy',
+    fldTitle: 'forever',
+    fldDate: 2018-10-07T04:00:00.000Z,
+    fldContent: 'Burlington vt somewhere' } ]
+Grabbed News
+[ RowDataPacket {
+    pmkNewsId: 1,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 2,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 3,
+    fldAuthor: 'This guy',
+    fldTitle: 'forever',
+    fldDate: 2018-10-07T04:00:00.000Z,
+    fldContent: 'Burlington vt somewhere' } ]
+Grabbed News
+[ RowDataPacket {
+    pmkNewsId: 1,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 2,
+    fldAuthor: 'Someone',
+    fldTitle: 'Somthing',
+    fldDate: 2018-12-12T05:00:00.000Z,
+    fldContent: 'fksdjfdsf' },
+  RowDataPacket {
+    pmkNewsId: 3,
+    fldAuthor: 'This guy',
+    fldTitle: 'forever',
+    fldDate: 2018-10-07T04:00:00.000Z,
+    fldContent: 'Burlington vt somewhere' } ]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+w.risigo@gmail.com
+wrisigo@gmail.com
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+wlrisigo@gmail.com
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+wlrisigo@gmail.com
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+wlrisigo@gmail.com
+[ [ 'wlrisigo@gmail.com', '123456788' ] ]
+In Register
+ER_PARSE_ERROR
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+wlrisigo@gmail.com
+[ [ 'wlrisigo@gmail.com', '123456788' ] ]
+In Register
+ER_PARSE_ERROR
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+wlrisigo@gmail.com
+[ [ 'wlrisigo@gmail.com', '123456788' ] ]
+In Register
+ER_PARSE_ERROR
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+wlrisigo@gmail.com
+[ [ 'wlrisigo@gmail.com', '123456788' ] ]
+In Register
+ER_PARSE_ERROR
+undefined
+undefined
+wlrisigo@gmail.com
+[ [ 'wlrisigo@gmail.com', '123456788' ] ]
+In Register
+ER_PARSE_ERROR
+undefined
+undefined
+wlrisigo@gmail.com
+[ [ 'wlrisigo@gmail.com', '123456788' ] ]
+In Register
+ER_PARSE_ERROR
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+wlrisigo@gmail.com
+[ [ 'wlrisigo@gmail.com', '123456788' ] ]
+In Register
+ER_PARSE_ERROR
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+wlrisigo@gmail.com
+[ [ 'wlrisigo@gmail.com', '123456788' ] ]
+In Register
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Bob@gmail.com
+[ [ 'Bob@gmail.com', '123456788' ] ]
+In Register
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Bober@gmail.com
+[ [ 'Bober@gmail.com', '123456788' ] ]
+In Register
+{ pmkEmail: 'Bober@gmail.com', fldPassword: '123456788' }
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Gry@gmail.com
+[ [ 'Gry@gmail.com', '123456788' ] ]
+In Register
+{ pmkEmail: 'Gry@gmail.com', fldPassword: '123456788' }
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Gy@gmail.com
+[ [ 'Gy@gmail.com', '123456788' ] ]
+In Register
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Guy@gmail.com
+[ [ 'Guy@gmail.com', '123456788' ] ]
+In Register
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Gus@gmail.com
+123456788
+[ [ 'Gus@gmail.com', '123456788' ] ]
+In Register
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Billy@gmail.com
+123456788
+123456788
+[ [ 'Billy@gmail.com', '123456788' ] ]
+In Register
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Bily@gmail.com
+123456788
+ERROR Cannot read property '1' of undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Bily@gmail.com
+123456788
+[ [ 'Bily@gmail.com', '123456788' ] ]
+In Register
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Bilyy@gmail.com
+123456788
+{ pmkEmail: 'Bilyy@gmail.com', fldPassword: '123456788' }
+[ [ 'Bilyy@gmail.com', '123456788' ] ]
+In Register
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+In admin.jsBilsyy@gmail.com
+In the user.js: 123456788
+{ pmkEmail: 'Bilsyy@gmail.com', fldPassword: '123456788' }
+[ [ 'Bilsyy@gmail.com', '123456788' ] ]
+In Register
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+In user.js: Bills@gmail.com
+In the user.js: 123456788
+Validation: [object Object]
+[ [ 'Bills@gmail.com', '123456788' ] ]
+In Register
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ERROR Empty is not defined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+In user.js: Bil@gmail.com
+In the user.js: 123456788
+Validation: 123456788
+[ [ 'Bil@gmail.com', '123456788' ] ]
+In Register
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+In user.js: Bi@gmail.com
+In the user.js: 123456788
+Validation: 123456788
+[ [ 'Bi@gmail.com', '123456788' ] ]
+In Register
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+In user.js: B@gmail.com
+In the user.js: 123456788
+Validation: 123456788
+[ [ 'B@gmail.com', '123456788' ] ]
+In Register
+
+In user.js: Bobbing@gmail.com
+In the user.js:
+Validation: 
+[ [ 'Bobbing@gmail.com', '' ] ]
+In Register
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+In user.js: Bobbin@gmail.com
+In the user.js:
+Validation: 
+[ [ 'Bobbin@gmail.com', '' ] ]
+In Register
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+In user.js: Bobbn@gmail.com
+In the user.js:
+Validation: 
+[ [ 'Bobbn@gmail.com', '' ] ]
+In Register
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Bobbly@gmail.com
+Bobbly@gmail.com
+Bobbly@gmail.com
+Bobbly@gmail.com
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ERROR Invalid schema content: (fldPassword)
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ERROR Invalid schema content: (fldPassword)
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Bobbly@gmail.com
+[ [ 'Bobbly@gmail.com', '123456783' ] ]
+In Register
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Bing@gmail.com
+ERROR bcrypt is not defined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Bing@gmail.com
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Bing@gmail.com
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Email Already Exists- withing db.js
+ERROR email is not defined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Email Already Exists- withing db.js
+ERROR email is not defined
+Email Already Exists- withing db.js
+ERROR email is not defined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+Email Already Exists- withing db.js
+ERROR email is not defined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Bing@gmail.com
+ERROR email is not defined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Bing@gmail.com
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+[ RowDataPacket { pmkEmail: 'Bing@gmail.com' } ]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+[ RowDataPacket {
+    pmkEmail: 'Bing@gmail.com',
+    fldPassword:
+     '$2b$10$uBmm.fw89cqPYZesw1Iv9u8gS12vAO3dstAHnBFdkGLBYE0elXRcy' } ]
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$uBmm.fw89cqPYZesw1Iv9u8gS12vAO3dstAHnBFdkGLBYE0elXRcy
+Binger@gmail.com
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+$2b$10$hLjw5tpQeKHc4WTkkHCdquA2hC//iQ5bg2Jiet9WRks7fm89apoDa
+$2b$10$hLjw5tpQeKHc4WTkkHCdquA2hC//iQ5bg2Jiet9WRks7fm89apoDa
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$hLjw5tpQeKHc4WTkkHCdquA2hC//iQ5bg2Jiet9WRks7fm89apoDa
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$hLjw5tpQeKHc4WTkkHCdquA2hC//iQ5bg2Jiet9WRks7fm89apoDa
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$hLjw5tpQeKHc4WTkkHCdquA2hC//iQ5bg2Jiet9WRks7fm89apoDa
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$hLjw5tpQeKHc4WTkkHCdquA2hC//iQ5bg2Jiet9WRks7fm89apoDa
+Does password match: true
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Binger@gmail.com
+ER_DUP_ENTRY
+undefined
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$hLjw5tpQeKHc4WTkkHCdquA2hC//iQ5bg2Jiet9WRks7fm89apoDa
+Does password match: true
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ jwtPrivateKey: '',
+  host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ jwtPrivateKey: '',
+  host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ jwtPrivateKey: '',
+  host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ jwtPrivateKey: '',
+  host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ jwtPrivateKey: '',
+  host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ jwtPrivateKey: '',
+  host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ jwtPrivateKey: '',
+  host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+pass
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+DefaultPass
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$hLjw5tpQeKHc4WTkkHCdquA2hC//iQ5bg2Jiet9WRks7fm89apoDa
+Does password match: true
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+BingZing4310@gmail.com
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+wrisigo@gmail.com
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+wrisigo@gmail.com
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+John@gmail.com
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Johny@gmail.com
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Johnys@gmail.com
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1NDU5NTg0ODd9.gz5spy5PrtdHbobUXUssg9UauhTIdpdBU-8WXGbVa0U
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Johnyss@gmail.com
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1NDU5NTg1NzB9.xNyzhrUeq0SCTxrbephwIpckf2fU4ZjGsq7WOTmRsTg
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Joh@gmail.com
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1NDU5NTg2Mjd9.LEnmwF6JoBshGcsOUsgx_D1PSFwGO5bMMK0W8BSvCP0
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+$2b$10$IAZB3OL.xuQd.5LWvEY1QuWano2aueOe3rfJ82ftWE7XtReTvHTBa
+Does password match: true
+ERROR secretOrPrivateKey must have a value
+Dogs
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Config {
+  env:
+   { sql:
+      { host: 'localhost',
+        user: 'root',
+        password: 'CSBob148',
+        database: 'sys' },
+     jwt: { jwtPrivateKey: '' },
+     host: 'localhost',
+     user: 'root',
+     password: 'CSBob148',
+     database: 'sys' },
+  jwt: { jwtPrivateKey: '' } }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+{ sql:
+   { host: 'localhost',
+     user: 'root',
+     password: 'CSBob148',
+     database: 'sys' },
+  jwt: { jwtPrivateKey: '' },
+  host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+{ sql:
+   { host: 'localhost',
+     user: 'root',
+     password: 'CSBob148',
+     database: 'sys' },
+  jwt: { jwtPrivateKey: 'ThePrivateKey' },
+  host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$IAZB3OL.xuQd.5LWvEY1QuWano2aueOe3rfJ82ftWE7XtReTvHTBa
+Does password match: true
+ERROR secretOrPrivateKey must have a value
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$IAZB3OL.xuQd.5LWvEY1QuWano2aueOe3rfJ82ftWE7XtReTvHTBa
+Does password match: true
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Johnyboy@gmail.com
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1NDU5NTk5MzN9.uM3hoBnbw8AUU0WNUI5-fX842XQcx7P3hY251AHOMQw
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+Johnyboys@gmail.com
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$IAZB3OL.xuQd.5LWvEY1QuWano2aueOe3rfJ82ftWE7XtReTvHTBa
+Does password match: true
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$IAZB3OL.xuQd.5LWvEY1QuWano2aueOe3rfJ82ftWE7XtReTvHTBa
+Does password match: true
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$IAZB3OL.xuQd.5LWvEY1QuWano2aueOe3rfJ82ftWE7XtReTvHTBa
+Does password match: true
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$IAZB3OL.xuQd.5LWvEY1QuWano2aueOe3rfJ82ftWE7XtReTvHTBa
+Does password match: true
+TheBoys@gmail.com
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+$2b$10$DE7MpkwkZ6dyxqKt4BHNR.7tUjRLpy54gDCtKofTX1BE7KTSqK.ey
+Does password match: true
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+$2b$10$DE7MpkwkZ6dyxqKt4BHNR.7tUjRLpy54gDCtKofTX1BE7KTSqK.ey
+Does password match: true
+Something@gmail.com
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+I am here
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+[ [ 'Henry',
+    'Golden Retriever',
+    '1',
+    'Great Around Family\'s',
+    'golden_retriever.jpg',
+    undefined ] ]
+ER_BAD_NULL_ERROR
+undefined
+undefined
+SyntaxError: Unexpected string in JSON at position 171
+    at JSON.parse (<anonymous>)
+    at parse (/Users/wlrisigo/Downloads/Loader/node_modules/body-parser/lib/types/json.js:89:19)
+    at /Users/wlrisigo/Downloads/Loader/node_modules/body-parser/lib/read.js:121:18
+    at invokeCallback (/Users/wlrisigo/Downloads/Loader/node_modules/raw-body/index.js:224:16)
+    at done (/Users/wlrisigo/Downloads/Loader/node_modules/raw-body/index.js:213:7)
+    at IncomingMessage.onEnd (/Users/wlrisigo/Downloads/Loader/node_modules/raw-body/index.js:273:7)
+    at IncomingMessage.emit (events.js:182:13)
+    at endReadableNT (_stream_readable.js:1094:12)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+[ [ 'Henry',
+    'Golden Retriever',
+    '1',
+    'Great Around Family\'s',
+    'golden_retriever.jpg',
+    'Available' ] ]
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 6,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+Email Already Exists- withing db.js
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+Email Already Exists- withing db.js
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+undefined
+Email Already Exists- withing db.js
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+undefined
+Email Already Exists- withing db.js
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+Something@gmail.com
+Email Already Exists- withing db.js
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+Something@gmail.com
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+Something@gmail.com
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+TypeError: Cannot read property 'fldAdmin' of undefined
+    at module.exports (/Users/wlrisigo/Downloads/Loader/middleware/isAdmin.js:4:18)
+    at Layer.handle [as handle_request] (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/Users/wlrisigo/Downloads/Loader/middleware/_auth.js:13:9)
+    at Layer.handle [as handle_request] (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/index.js:335:12)
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+TypeError: Cannot read property 'admin' of undefined
+    at module.exports (/Users/wlrisigo/Downloads/Loader/middleware/isAdmin.js:4:18)
+    at Layer.handle [as handle_request] (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/Users/wlrisigo/Downloads/Loader/middleware/_auth.js:13:9)
+    at Layer.handle [as handle_request] (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/index.js:335:12)
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+TypeError: Cannot read property 'admin' of undefined
+    at module.exports (/Users/wlrisigo/Downloads/Loader/middleware/isAdmin.js:2:18)
+    at Layer.handle [as handle_request] (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/route.js:137:13)
+    at module.exports (/Users/wlrisigo/Downloads/Loader/middleware/_auth.js:13:9)
+    at Layer.handle [as handle_request] (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/layer.js:95:5)
+    at next (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/layer.js:95:5)
+    at /Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/Users/wlrisigo/Downloads/Loader/node_modules/express/lib/router/index.js:335:12)
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IlNvbWV0aGluZ0BnbWFpbC5jb20iLCJhZG1pbiI6IjEiLCJpYXQiOjE1NDU5NjIyNDV9.3cJJpBHKXoYyYVWnoUWvB1a5k_d2FF2PXXPBR5uZ5yU
+ThePrivateKey
+[ [ 'Henry',
+    'Golden Retriever',
+    '1',
+    'Great Around Family\'s',
+    'golden_retriever.jpg',
+    'Available' ] ]
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 7,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+wlrisigo@gmail.com
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IndscmlzaWdvQGdtYWlsLmNvbSIsImFkbWluIjoiMyIsImlhdCI6MTU0NTk2NjIyMX0.OxqcS9qX3S7oe0f5bnfgNosKikOChFl5P11vHP5MvYI
+ThePrivateKey
+lol@gmail.com
+OkPacket {
+  fieldCount: 0,
+  affectedRows: 1,
+  insertId: 0,
+  serverStatus: 2,
+  warningCount: 0,
+  message: '',
+  protocol41: true,
+  changedRows: 0 }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }
+ThePrivateKey
+This is the Enviorment: 
+{ host: 'localhost',
+  user: 'root',
+  password: 'CSBob148',
+  database: 'sys' }

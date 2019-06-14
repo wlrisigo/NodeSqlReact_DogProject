@@ -1,0 +1,298 @@
+.App {
+  text-align: center;
+}
+
+.Radio{
+  text-align: center;
+}
+.Submit{
+  margin-left: 45%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.Radio{
+  margin-left: 32%;
+
+}
+fieldset{
+  text-align: center;
+  padding: 5px 5px 5px 5px;
+}
+
+label{
+  margin: 5px;
+}
+
+/** HEADER CSS **/
+.logo{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 1em;
+}
+.App-Header {
+  background-color: #282c34;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  height: 100%;
+  width: 100%;
+
+}
+.App-Header h1{
+  margin-left: 32%;
+}
+h3{
+  margin: 5px;
+}
+
+
+/** FOOTER CSS **/
+
+.App-Footer{
+
+
+  background-color: #282c34;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  height: 100px;
+  width: 100%;
+
+
+
+}
+.App-Footer p{
+  color: white;
+  text-align: left;
+  font-size: calc(10px + 2vmin);
+  padding: .5em;
+}
+
+/** NAV CSS **/
+
+.Nav {
+
+  background-color: #282c34;
+  padding: .5em;
+  display: flex;
+  align-content: flex-start;
+}
+
+.Nav a{
+  color: white;
+  margin-left: 2em;
+  font-size: calc(5px + 2vmin);
+}
+
+/** ABOUTUS CSS **/
+
+
+.About-Me h2{
+  color: black;
+  flex-direction: row;
+  align-items: start;
+  justify-content: flex-start;
+  text-align: left;
+  padding: .25em;
+  font-size: 3em;
+}
+
+.About-Me p{
+  text-align: left;
+  float: left;
+  width: 50%;
+  padding: .25em;
+  margin-left: 1em;
+  font-size: 2em;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.About-Me figure{
+  padding: .5em;
+  border: thin solid darkslategrey;
+  width: 500px;
+  height: 350px;
+  float: right;
+  margin-right: 10em;
+
+}
+
+.About-Me figure figcaption{
+  padding: 1.5em;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.Center{
+  margin-left: 43%;
+}
+
+.About-Me img{
+  border-radius: 0.4em;
+  max-width: 100%;
+}
+
+/** NEWS CSS **/
+.newsTable{
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  width: 90%;
+  margin-left: 3em;
+}
+.newsArticle {
+  padding: 1.5em;
+  display: flex;
+  align-content: start;
+
+}
+
+.newsHeader{
+  padding: 1.5em;
+  text-align: left;
+}
+
+.newsComponent{
+  width: 95%;
+  margin-left: 2em;
+  padding: 1em;
+  border: thin solid ;
+  margin-bottom: .8em;
+  text-align: left;
+}
+
+/** VIEWS DOGS CSS **/
+.dogInfo {
+  padding: .25em;
+  margin-left: 3em;
+}
+
+.dogRow{
+  width: 95%;
+  margin-left: 2em;
+  padding: 1em;
+  border: thin solid ;
+  margin-bottom: .8em;
+  text-align: left;
+  display: flex;
+  align-content: start;
+  flex-wrap: wrap;
+}
+
+.dogInfoC{
+  display: flex;
+  flex-direction: column;
+}
+
+.dogPage{
+  padding: .5em;
+}
+
+.viewDogsHeader {
+  padding: 1.5em;
+  text-align: left;
+}
+
+.dogPhoto {
+  width: 200px;
+  height: 200px;
+  border-radius: 0.4em;
+  max-width: 100%;
+
+
+
+}
+
+.dogPhotoFrame {
+  border: thin solid darkslategray;
+  border-radius: 0.4em;
+  padding: 0.5em;
+
+}
+
+
+/** ADD DOG CSS **/
+
+.addDogHeader{
+  padding: 1.5em;
+  text-align: left;
+
+}
+
+.formLegend{
+  text-align: center;
+}
+
+.addDogForm{
+  border: thin solid ;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  font-weight: bold;
+
+
+
+}
+
+.formLabel{
+  padding: 1em;
+}
+
+.formInput{
+  text-align: center;
+
+}
+
+.formInput input{
+  margin-left: 1em;
+}
+
+.formInput textarea{
+  resize: both;
+  width: 400px;
+  height: 150px;
+}
+
+.addDogForm button {
+  text-align: left;
+}
+
+.addDogForm article{
+  width: 100%;
+
+}
+
+.tagsLabel {
+  padding: 1.5em;
+  text-align: left;
+
+}
+
+
+
+
+.tags{
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.errors {
+  color: red;
+}
+
+

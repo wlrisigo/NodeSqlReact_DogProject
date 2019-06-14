@@ -1,0 +1,9 @@
+{
+  "env":{
+      "host": "webdb.uvm.edu",
+      "user": "wrisigo_admin",
+      "password": "CS148Bob",
+      "database": "WRISIGO_DOGS"
+    }
+}
+

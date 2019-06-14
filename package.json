@@ -1,0 +1,27 @@
+{
+  "name": "forthepups",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "config": "^3.0.0",
+    "cookie-parser": "~1.4.3",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "joi": "^14.3.0",
+    "joi-password-complexity": "^2.0.1",
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.11",
+    "mysql": "^2.16.0",
+    "nodemon": "^1.18.7",
+    "util": "^0.11.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}

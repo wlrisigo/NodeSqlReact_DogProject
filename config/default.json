@@ -1,0 +1,14 @@
+{
+  "env": {
+
+    "sql": {
+      "host": "localhost",
+      "user": "root",
+      "password": "CSBob148",
+      "database": "sys"
+           },
+      "jwt": {
+        "jwtPrivateKey": "ThePrivateKey"
+      }
+  }
+}
